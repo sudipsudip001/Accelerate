@@ -1,0 +1,1 @@
+Python, numpy and pandas has been explored and looked into here. The fundamental concepts were revised and revisited.
