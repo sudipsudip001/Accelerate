@@ -1,0 +1,15 @@
+[project]
+name = "beforetransformers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gensim>=4.4.0",
+    "matplotlib>=3.10.8",
+    "nltk>=3.9.3",
+    "pandas>=3.0.1",
+    "scikit-learn>=1.8.0",
+    "torch==2.0.1",
+    "torchvision==0.15.2",
+]
